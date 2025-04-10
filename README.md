@@ -1,3 +1,4 @@
 # quizz
 
-A new Flutter project.
+Project UTS Pemrograman Mobile
+Membuat aplikasi Quis
